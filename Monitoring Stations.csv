@@ -1,0 +1,174 @@
+Key;Name;ID;O3;CO;SO2;NO2;PM10;PM2.5;Address;Municipality;State;Latitude;Longitude;Altitude;Subnetwork;Years Active;Parameters
+ACO;Acolman;484150020109;4;2;4;3;3;;Calzada de los Agustinos s/n, Col. Centro, C.P. 55870;Acolman;Estado de México;19.635501;-98.912003;2198 msnm;"RAMA
+REDMET";"2007-actual
+2011-actual";"O3, NOX, NO2, NO, CO, SO2, PM10
+VV, DV, TMP, HR, RADG"
+AJU;Ajusco;484090120400;4;;;;;4;Km 36.5 Carretera Federal México-Cuernavaca, C.P. 14500;Tlalpan;CDMX;19.154674;-99.162459;2953 msnm;"RAMA
+REDMET
+REDDA";"2015-actual
+2015-actual
+1998-actual";"O3, NOX, NO2, NO, PM2.5
+VV, DV, TMP, HR
+Depósito atmosférico, pH"
+AJM;Ajusco Medio;484090120609;3;2;4;3;3;4;Encinos # 41, col. Miguel Hidalgo 4ta sección, Tlalpan, C.P. 14250;Tlalpan;CDMX;19.2721;-99.207658;2619 msnm;"RAMA
+REDMET";"2015-actual
+2015-actual";"O3, NOX, NO2, NO, CO, SO2, PM10, PM2.5, PM10-2.5
+VV, DV, TMP, HR"
+ATI;Atizapán;484150130101;4;3;4;3;3;;Oceano Pacífico s/n, Col. Lomas Lindas, C.P. 54947;Atizapán de Zaragoza;Estado de México;19.576963;-99.254133;2341 msnm;RAMA;1994-actual;O3, NOX, NO2, NO, CO, SO2, PM10
+BJU;Benito Juarez;484090140309;3;2;4;3;3;4;Municipio libre y Uxmal, Col. Santa Cruz Atoyac,Benito Juárez,C.P.03310;Benito Juárez;CDMX;19.371612;-99.158969;2250 msnm;"RAMA
+REDMET";"2015-actual
+2015-actual";"O3,NO2, CO, SO2, PM10, PM2.5, PM10-2.5
+VV, DV, TMP, HR"
+CAM;Camarones;484090020301;3;2;3;3;3;3;Malvón No. 20, Col. Hogar y seguridad, C.P. 02820;Azcapotzalco;CDMX;19.468404;-99.169794;2233 msnm;RAMA;2003-actual;O3, NOX, NO2, NO, CO, SO2, PM10, PM2.5, PM10-2.5
+CCA;Centro de Ciencias de la Atmósfera;484090030501;3;2;4;3;;3;Universidad Nacional Autónoma de México, Circuito Exterior s/n, Ciudad Universitaria, Coyoacán, C.P. 04510;Coyoacán;CDMX;19.3262;-99.1761;2280 msnm;RAMA;2014-actual;O3, NOX, NO2, NO, CO, SO2, PM2.5
+TEC;Cerro del Tepeyac;484090050404;;;;;;;Av. Hidalgo y Av. Cantera s/n, Col. Estansuela, C.P. 07060;Gustavo A. Madero;CDMX;19.487227;-99.114229;2265 msnm;REDDA;1988-actual;Depósito atmosférico, pH
+CHO;Chalco;484150250109;3;1;3;3;2;;Insurgentes s/n, Col. Casco de San Juan, C.P. 56600;Chalco;Estado de México;19.266948;-98.886088;2253 msnm;"RAMA
+REDMET";"2007-actual
+2011-actual";"O3, NOX, NO2, NO, CO, SO2, PM10
+VV, DV, TMP, HR, RADG"
+COR;CORENA;484090130204;;;;;;;Av. Año de Juárez N° 9700, Col. Quirino Mendoza, Pueblo de San Luis Tlaxialtemalco, C.P. 16610;Xochimilco;CDMX;19.265346;-99.02604;2242 msnm;REDDA;1990-actual;Depósito atmosférico, pH
+CUA;Cuajimalpa;484090040109;4;2;3;3;3;;Monte Encino No. 14, Col. Jesús del Monte, C.P. 05260;Cuajimalpa de Morelos;CDMX;19.365313;-99.291705;2704 msnm;"RAMA
+REDMET";"1994-actual
+2000-actual";"O3, NOX, NO2, NO, CO, SO2, PM10
+VV, DV, TMP, HR"
+CUT;Cuautitlán;484150950109;4;3;4;4;4;;Av. Boreal Esquina con Selva S/N, Col. Atlanta, C.P. 54740;Cuautitlán Izcalli;Estado de México;19.64678;-99.21024;2271 msnm;"RAMA
+REDMET";"2012-actual
+2012-actual";"O3, NOX, NO2, NO, CO, SO2, PM10
+VV, DV, TMP, HR, RADG"
+DIC;Diconsa;484090120304;;;;;;;Insurgentes Sur No. 3483, Col. Villa Olimpica Miguel Hidalgo, C.P. 14020;Tlalpan;CDMX;19.298819;-99.185774;2305 msnm;REDDA;1988-actual;Depósito atmosférico, pH
+EAJ;Ecoguardas Ajusco;484090120504;;;;;;;Carretera Picacho-Ajusco km. 5.5, Col. Ampliación Miguel Hidalgo, C.P. 14250;Tlalpan;CDMX;19.271222;-99.203971;2584 msnm;REDDA;1998-actual;Depósito atmosférico, pH
+EDL;Ex Convento Desierto de los Leones;484090040204;;;;;;;Camino al Desierto de los Leones s/n, Col. La Venta, C.P. 05520;Cuajimalpa de Morelos;CDMX;19.313357;-99.310635;2980 msn;REDDA;1998-actual;Depósito atmosférico, pH
+FAC;FES Acatlán;484150570109;3;2;3;3;3;;Av. Alcanfores y San Juan Totoltepec s/n, Col. Santa Cruz Acatlán, C.P. 53150;Naucalpan de Juárez;Estado de México;19.482473;-99.243524;2299 msnm;"RAMA
+REDMET";"1986-actual
+1986-actual";"O3, NOX, NO2, NO, CO, SO2, PM10
+VV, DV, TMP, HR, UVA, UVB"
+FAR;FES Aragón;484800150584;3;2;4;3;;3;Av. Hacienda de Rancho Seco s/n, Col. Impulsora Popular Avícola, Nezahualcoyotl, C.P. 57130;Nezahualcóyotl;Estado de México;19.473692;-99.046176;2230 msnm;"RAMA
+REDMET";"2019-actual
+2019-actual";"O3, CO, SO2, PM10, PM2.5, PM10-2.5
+VV, DV, TMP, HR"
+GAM;Gustavo A. Madero;484090050809;3;;;3;3;3;Av. Ing. Eduardo Molina No. 1577, Col. Salvador Diaz Miron, C.P. 07400;Gustavo A. Madero;CDMX;19.4827;-99.094517;2227 msnm;"RAMA
+REDMET";"2015-actual
+2015-actual";"O3, NO2, PM2.5
+VV, DV, TMP, HR"
+HGM;Hospital General de México;484090150409;3;1;3;3;3;3;Dr. Balmis No.148, Col. Doctores, C.P. 06726;Cuauhtémoc;CDMX;19.411617;-99.152207;2234 msnm;"RAMA
+REDMET";"2012-actual
+2012-actual";"O3, NOX, NO2, NO, CO, SO2, PM10, PM2.5, PM10-2.5
+VV, DV, TMP, HR"
+INN;Investigaciones Nucleares;484150620109;4;3;4;;3;4;Carretera México-Toluca s/n, La Marquesa, Ocoyoacac, C.P. 52750;Ocoyoacac;Estado de México;19.291968;-99.38052;3082 msnm;"RAMA
+REDMET";"2015-actual
+2015-actual";"O3, CO, SO2, PM10, PM2.5, PM10-2.5
+VV, DV, TMP, HR"
+IZT;Iztacalco;484090060101;3;2;3;3;3;;Guillermo Prieto y Melchor Ocampo No. 73, Col. Campamento 2 de octubre, C.P. 08930;Iztacalco;CDMX;19.384413;-99.117641;2238 msnm;RAMA;2007-actual;O3, NOX, NO2, NO, CO, SO2, PM10
+LPR;La Presa;484151040203;3;2;3;;;;Asociación Mexicana de Excursionistas del D.F. s/n, Col. La Presa, C.P. 54189;Tlalnepantla de Baz;Estado de México;19.534727;-99.11772;2302 msnm;"RAMA
+REDMA";"1986-actual
+1989-actual";"O3, NOX, NO2, NO, CO, SO2
+PM10, Pb"
+LAA;Laboratorio de Análisis Ambiental;484090050604;;;;;;;Av. Sur de los Cien Metros s/n, Col. Nueva Vallejo, C.P. 07750;Gustavo A. Madero;CDMX;19.483781;-99.147312;2255 msnm;"REDMET
+REDDA";"2016-actual
+1995-actual";"VV, DV, TMP, HR, UVA, UVB, PA
+Depósito atmosférico, pH"
+IBM;Legaria;484090160504;;;;;;;Calz. Legaria No. 853, Col. Irrigación, C.P. 11500;Miguel Hidalgo;CDMX;19.443319;-99.21536;2314 msnm;REDDA;1989-actual;Depósito atmosférico, pH
+LOM;Lomas;484090160406;;;;;4;;Ciruelo No. 99, Col. Bosques de las Lomas, C.P. 11700;Miguel Hidalgo;CDMX;19.403;-99.242062;2434 msnm;"REDMA
+REDDA";"1989-actual
+1988-actual";"PM10
+Depósito atmosférico, pH"
+LLA;Los Laureles;484150330201;4;2;3;3;;;Río Piedad esq. Ponce s/n, Col. Fracc. Río Piedras, C.P. 55090;Ecatepec de Morelos;Estado de México;19.578792;-99.039644;2230 msnm;RAMA;1986-actual;O3, NOX, NO2, NO, CO, SO2
+MER;Merced;484090170127;3;2;3;3;3;3;Congreso de la Unión esq. Stan de Tiro s/n, Col. Merced Balbuena, C.P. 15860;Venustiano Carranza;CDMX;19.42461;-99.119594;2245 msnm;"RAMA
+REDMET
+REDMA";"1986-actual
+1986-actual
+1989-actual";"O3, NOX, NO2, NO, CO, SO2, PM10, PM2.5, PM10-2.5
+VV, DV, TMP, HR, RADG, UVA, UVB, PA
+PST, PM10, PM2.5, Pb"
+MGH;Miguel Hidalgo;484090160609;3;2;3;3;3;3;Calle Sur 128 No. 53, Col. América, Miguel Hidalgo, C.P. 11820;Miguel Hidalgo;CDMX;19.40405;-99.202603;2366 msnm;"RAMA
+REDMET";"2015-actual
+2015-actual";"O3, NOX, NO2, NO, CO, SO2, PM10, PM2.5, PM10-2.5
+VV, DV, TMP, HR,RADG"
+MPA;Milpa Alta;484090090104;4;3;4;4;;;Blvd. Nuevo León No. 386, Col. Villa Milpa Alta, C.P. 12000;Milpa Alta;CDMX;19.1769;-98.990189;2594 msnm;"RAMA
+REDMET
+REDDA";"2016-actual
+2016-actual
+1998-actual";"O3, NOX, NO2, NO, CO, SO2, PM10, PM2.5, PM10-2.5
+VV, DV, TMP, HR, UVA, UVB
+Depósito atmosférico, pH"
+MON;Montecillo;484150990113;4;3;4;4;;4;Km. 36,5 carretera México - Texcoco, Col. Montecillo, C.P. 56230;Texcoco;Estado de México;19.460415;-98.902853;2252 msnm;"RAMA
+REDMET
+REDDA";"1994-actual
+2000-actual
+1994-actual";"O3, NOX, NO2, NO, CO, SO2,PM2.5
+VV, DV, TMP, HR, RADG, UVA, UVB
+Depósito atmosférico, pH"
+MCM;Museo de la Ciudad de México;484090150304;;;;;;;Pino Suárez No. 30, Col. Centro, C.P. 06000;Cuauhtémoc;CDMX;19.429071;-99.131924;2237 msnm;"REDMA
+REDDA";"1989-2002
+1988-actual";"PM10
+Depósito atmosférico, pH"
+NEZ;Nezahualcóyotl;484150580115;3;2;3;3;;3;Av. Ángel de la Independencia s/n, Col. Metropolitana 2a sección, C.P. 57740;Nezahualcóyotl;Estado de México;19.393734;-99.028212;2235 msnm;"RAMA
+REDMET
+REDMA
+REDDA";"2011-actual
+2011-actual
+1989-actual
+1990-actual";"O3, NOX, NO2, NO, CO, SO2, PM2.5
+VV, DV, TMP, HR
+PM10, Pb
+Depósito atmosférico, pH"
+PED;Pedregal;484090100127;4;2;4;3;3;3;Cañada No. 370, Col. Jardines del Pedregal, C.P. 01900;Álvaro Obregón;CDMX;19.325146;-99.204136;2326 msnm;"RAMA
+REDMET
+REDMA";"1986-actual
+1986-actual
+1989-actual";"O3, NOX, NO2, NO, CO, SO2, PM10, PM2.5, PM10-2.5
+VV, DV, TMP, HR, UVA, UVB
+PST, PM10, PM2.5, Pb"
+SAG;San Agustín;484150330327;3;2;3;3;3;3;Av. Santa Rita y Sur 92, Col. San Agustín 3a sección, C.P. 55130;Ecatepec de Morelos;Estado de México;19.532968;-99.030324;2241 msnm;"RAMA
+REDMET
+REDMA";"1986-actual
+1986-actual
+2003-actual";"O3, NOX, NO2, NO, CO, SO2, PM10, PM2.5, PM10-2.5
+VV, DV, TMP, HR, UVA, UVB
+PM2.5"
+SNT;San Nicolás Totolapan;484090080104;;;;;;;Km. 11.5 carretera Picacho-Ajusco, C.P. 10900;La Magdalena Contreras;CDMX;19.250385;-99.256462;2946 msnm;REDDA;1998-actual;Depósito atmosférico, pH
+SFE;Santa Fe;484090040309;4;3;4;3;3;4;Av. Carlos Lazo s/n, entre Tamaulipas y Sta. Fe, Col. Prados de la Montaña, C.P. 05619;Cuajimalpa de Morelos;CDMX;19.357357;-99.262865;2599 msnm;"RAMA
+REDMET";"2012-actual
+2012-actual";"O3, NOX, NO2, NO, CO, SO2, PM10, PM2.5, PM10-2.5
+VV, DV, TMP, HR, RADG, UVA, UVB"
+SAC;Santiago Acahualtepec;484800090073;3;2;3;3;;3;Retama s/n esquina 5 de febrero, Col. 2a Ampliación Santiago Avahualtepec, Iztapalapa, C.P. 09609;Iztapalapa;CDMX;19.34561;-99.009381;2293 msnm;"RAMA
+REDMET";"2019-actual
+2019-actual";"O3, CO, SO2, PM10, PM2.5, PM10-2.5
+VV, DV, TMP, HR"
+TAH;Tláhuac;484090130309;4;2;4;3;4;;Escudo Nacional s/n, Col Nativitas, C.P. 16790;Xochimilco;CDMX;19.246459;-99.010564;2297 msnm;"RAMA
+REDMET";"1994-actual
+2000-actual";"O3, NOX, NO2, NO, CO, SO2, PM10
+VV, DV, TMP, HR"
+TLA;Tlalnepantla;484151040115;3;1;3;3;3;3;Glorieta Atlacomulco s/n, Col. Tlalnemex, C.P. 54070;Tlalnepantla de Baz;Estado de México;19.529077;-99.204597;2311 msnm;"RAMA
+REDMET
+REDMA
+REDDA";"1986-actual
+1986-actual
+1989-actual
+1989-actual";"O3, NOX, NO2, NO, CO, SO2, PM10, PM2.5, PM10-2.5
+VV, DV, TMP, HR, RADG, UVA, UVB
+PST, PM10, PM2.5, Pb
+Depósito atmosférico, pH"
+TLI;Tultitlán;484151090101;3;2;3;3;3;;Blvd. Lomas de Cartagena s/n, Col. Lomas de Cartagena, C.P. 54943;Tultitlán;Estado de México;19.602542;-99.177173;2313 msnm;RAMA;1994-actual;O3, NOX, NO2, NO, CO, SO2, PM10
+UIZ;UAM Iztapalapa;484090070219;3;2;3;3;3;3;San Rafael Atlixco No. 180, Col. Vicentina, C.P. 09340;Iztapalapa;CDMX;19.360794;-99.07388;2221 msnm;"RAMA
+REDMET
+REDMA";"1987-actual
+
+1989-actual";"O3, NOX, NO2, NO, CO, SO2, PM10, PM2.5, PM10-2.5
+RADG
+PST, PM10, PM2.5, Pb"
+UAX;UAM Xochimilco;484090030401;3;2;3;3;;3;Calz.del Hueso 1100, Col. Villa Quietud, C.P. 04960;Coyoacán;CDMX;19.304441;-99.103629;2246 msnm;RAMA;2012-actual;O3, NOX, NO2, NO, CO, SO2, PM2.5
+VIF;Villa de las Flores;484150200109;4;3;3;3;4;;Primavera y Palmacristi s/n, Col. Villa de las Flores, C.P. 55710;Coacalco de Berriozábal;Estado de México;19.658223;-99.09659;2242 msnm;"RAMA
+REDMET";"1994-actual
+2000-actual";"O3, NOX, NO2, NO, CO, SO2, PM10
+VV, DV, TMP, HR"
+XAL;Xalostoc;484150330415;2;1;2;2;2;2;Vía Morelos km 12.5, Col. Xalostoc, entre López Rayón y Av. Benito Juárez, C.P. 54190;Ecatepec de Morelos;Estado de México;19.525995;-99.0824;2160 msnm;"RAMA
+REDMET
+REDMA
+REDDA";"1986-actual
+1986-actual
+1989-actual
+1989-actual";"O3, NOX, NO2, NO, CO, SO2, PM10, PM2.5, PM10-2.5
+VV, DV, TMP, HR, RADG
+PST, PM10, PM2.5, Pb
+Depósito atmosférico, pH"
